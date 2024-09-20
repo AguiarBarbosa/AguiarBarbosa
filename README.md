@@ -2,7 +2,7 @@
 
 Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro passo, e o mais importante, é o projeto de Prontuário Digital, Vida e Saúde. Visite!
 
--🔎 Estou estudando Front-End (Início dia 05/08/2024)  
+-🔎 Estou estudando Web (Início dia 05/08/2024)  
 -📗 Aperfeiçoando meu Inglês  
 -🧑🏽‍💻 Procurando por Estágio!  
 <br>
