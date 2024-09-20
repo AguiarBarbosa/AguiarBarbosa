@@ -1,6 +1,6 @@
 ### Seja Bem-vindo(a) ao meu Perfil! Eu sou o [Aguiar](https://github.com/AguiarBarbosa)! 😸
 
-Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro passo, e o mais importante, foi o projeto de Prontuário Digital, Vida e Saúde. Visite!
+Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro passo, e o mais importante, é o projeto de Prontuário Digital, Vida e Saúde. Visite!
 
 -🔎 Estou estudando Front-End (Início dia 05/08/2024)  
 -📗 Aperfeiçoando meu Inglês  
