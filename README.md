@@ -2,9 +2,9 @@
 
 Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro passo, e o mais importante, é o projeto de Prontuário Digital, Vida e Saúde. Visite!
 
--🔎 Estou estudando Web
+-🔎 Estou estudando Web  
 -📗 Aperfeiçoando meu Inglês  
--🧑🏽‍💻 Procurando por Estágio!  
+-🧑🏽‍💻 Estagiário da Todos Empreendimentos  
 <br>
 
 ![Aguiar's Stats](https://github-readme-stats.vercel.app/api?username=AguiarBarbosa&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
