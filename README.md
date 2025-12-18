@@ -5,6 +5,7 @@ Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro pa
 -🔎 Estou aperfeiçoando minhas skills Web  
 -📗 Aperfeiçoando meu Inglês  
 -🧑🏽‍💻 Dois anos de experiência
+-💻 Desenvolvedor pela PSO Engenharia Elétrica
 <br>
 
 ![Aguiar's Stats](https://github-readme-stats.vercel.app/api?username=AguiarBarbosa&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
