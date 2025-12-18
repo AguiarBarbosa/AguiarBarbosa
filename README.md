@@ -4,7 +4,7 @@ Almejo ter centenas de contribuições aqui no GitHub, sendo que meu primeiro pa
 
 -🔎 Estou aperfeiçoando minhas skills Web  
 -📗 Aperfeiçoando meu Inglês  
--🧑🏽‍💻 Dois anos de experiência 
+-🧑🏽‍💻 Dois anos de experiência<br>
 -💻 Desenvolvedor pela PSO Engenharia Elétrica
 <br>
 
